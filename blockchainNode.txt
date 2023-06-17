@@ -1,0 +1,13 @@
+Blockchain Node
+For deploying an application in production, you need a server. A blockchain node does this job for blockchains. 
+Blockchain nodes are network stakeholders or devices running the “blockchain software”. 
+Hence, they are authorized to keep track of the distributed ledger, serving as communication hubs for the network tasks.
+ A P2P (Peer to Peer) protocol allows nodes to communicate within the network and transfer information about transactions and new blocks.
+
+You can self-run blockchain nodes or get a Node service provider like 
+1)  Quicknode 
+2)  Moralis
+3)  Infura etc.,
+ that offer APIs to create automated flows. For self-hosting, AWS Cloud and Azure have images for you to spin up for the more popular chains.
+ Otherwise, most chains make it easy for you to run your nodes/validators.
+ The only thing that can be a hassle is to ensure uptime and maintenance, which depends on your network.
