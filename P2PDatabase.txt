@@ -1,0 +1,13 @@
+P2P Database
+The first question that anybody would ask here is: 
+Why do we need a database when we’re using blockchain in the first place?
+ Additionally, will it not hinder our idea of a dApp?
+
+As a simple answer to that, storing data on a blockchain is slow and expensive.
+ We need an additional database to access data off-chain, ensuring that we’re 
+not accessing the chain again and again. To have that decentralization part of it,
+ we use peer-to-peer or P2P databases that store and host all of the data in streams
+ to eliminate centralized database servers, blockchains,
+ or local storage. Think about how your torrents get downloaded!
+
+The !!!!Ceramic network!!!! is the most common decentralized database provider out there, as I know of personally.
