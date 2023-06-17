@@ -1,0 +1,12 @@
+Many developers might not know, but the frontend technologies for Web3 and Web2 are the same. 
+The only difference is where you need to reimagine the UX of the application because the authentication,
+ processing in the blockchain, and general flow of the application are slightly different from Web2 applications.
+
+I would recommend going on with React & Next.js since most developers are currently using this in the Web3 world.
+ I might be biased, but almost every other project presently features a React integration.
+ If you’re using Webpack 5, make sure that there are certain polyfills you need to take care of while developing an application;
+ the rest of everything is generally the same.
+
+For the client-side backend, things get a bit different.
+ Here is where you need to understand how to interact with the blockchain you’ve created.
+ Web3 Interaction libraries help you with that, but you need to know how they work and interact with the blockchain properly.
